@@ -18,9 +18,9 @@ export default function Home() {
 
       <a href="/"><h2>matas.wtf? an ebike?</h2></a>
       <p>I made an electric bike.</p>
-      <p>a few years ago i made a gas-powered bike, but it was too loud (and I am too self-conscious) to use it frequently</p>
+      <p>a few years ago I made a gas-powered bike, but it was too loud (and I am too self-conscious) to use it frequently</p>
       <p>I like electronics, batteries, and bicycling, so I decided to make an ebike</p>
-      <p>I had a spare bike. i purchased a 1200W motor from amazon. but pre-built e-bike batteries were took expensive, so i decided to build my own.</p>
+      <p>I had a spare bike. I purchased a 1200W motor from amazon. but pre-built e-bike batteries were took expensive, so I decided to build my own.</p>
       <p>I bought 52 high-amp rated 18650 batteries, a 40A BMS, and some other small pieces.</p>
       <p>following <a href="https://www.ebikeschool.com/how-to-build-a-diy-electric-bicycle-lithium-battery-from-18650-cells/">this guide</a>, I completed the battery with only a few unscheduled electrical discharges</p>
       <p>currently when riding, I wear a backpack with the battery inside. if the battery catches fire, it's easier to drop the backpack than dismount a bike when traveling at high speeds</p>
