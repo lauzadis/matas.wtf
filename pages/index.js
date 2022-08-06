@@ -10,12 +10,34 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          matas.wtf
-        </h1>
-        <h3>under construction</h3>
-      </main>
+      <a href="/"><h2>matas.wtf?</h2></a>
+      <p>I made this website to list some of my most interesting projects and help by sharing with others</p>
+      <p> key features of the site </p>
+      <ul>
+        <li>software</li>
+        <li>hardware</li>
+        <li>sometimes both</li>
+        <li>lots of love</li>
+      </ul>
+
+      <h3>projects</h3>
+      <ul>
+        <li><a href="./ebike">electric bicyle</a></li>
+        <li><a href="./jwst">James Webb space telescope bot</a></li>
+
+      </ul>
+
+
+
+      
+    
+      
+      
+
+      {/* <h3>interests</h3>
+      <ul>
+        <li>space, artificial intelligence, manufacturing, DIY, cycling</li>
+      </ul> */}
     </div>
   )
 }
