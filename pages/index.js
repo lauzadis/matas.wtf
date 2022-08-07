@@ -24,20 +24,14 @@ export default function Home() {
       <ul>
         <li><a href="./ebike">electric bicyle</a></li>
         <li><a href="./jwst">James Webb space telescope bot</a></li>
-
       </ul>
 
-
-
-      
-    
-      
-      
-
-      {/* <h3>interests</h3>
+      <h3>about</h3>
       <ul>
-        <li>space, artificial intelligence, manufacturing, DIY, cycling</li>
-      </ul> */}
+        <li><a href="https://github.com/mataslauzadis">github</a></li>
+        <li><a href="https://linkedin.com/in/matas-lauzadis">linkedin</a></li>
+        <li><a href="/resume.pdf">resume</a></li>
+      </ul>
     </div>
   )
 }
