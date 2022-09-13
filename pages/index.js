@@ -11,11 +11,12 @@ export default function Home() {
       </Head>
 
       <a href="/"><h2>matas.wtf?</h2></a>
-      <p>I made this website to list some of my most interesting projects and help by sharing with others</p>
+      <p>I made this website to post information about myself and some of my most interesting projects. I hope to help by sharing with others</p>
       <p> key features of the site </p>
       <ul>
         <li>software</li>
         <li>hardware</li>
+        <li>books</li>
         <li>lots of love</li>
       </ul>
 
@@ -30,6 +31,7 @@ export default function Home() {
         <li><a href="https://github.com/lauzadis">github</a></li>
         <li><a href="https://linkedin.com/in/matas-lauzadis">linkedin</a></li>
         <li><a href="/resume.pdf">resume</a></li>
+        <li><a href="./books">books I've read (and recommend)</a></li>
       </ul>
     </div>
   )
