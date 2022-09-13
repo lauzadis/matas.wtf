@@ -21,10 +21,10 @@ export default function Home() {
       <p>a few years ago I made a gas-powered bike, but it was too loud (and I am too self-conscious) to use it frequently</p>
       <p>I like electronics, batteries, and bicycling, so I decided to make an ebike</p>
       <p>I had a spare bike. I purchased a 1200W motor from amazon. but pre-built e-bike batteries were took expensive, so I decided to build my own.</p>
-      <p>I bought 52 high-amp rated 18650 batteries, a 40A BMS, and some other small pieces.</p>
+      <p>I bought 52 high-amp rated 18650 batteries, a 40A BMS, and some other components.</p>
       <p>following <a href="https://www.ebikeschool.com/how-to-build-a-diy-electric-bicycle-lithium-battery-from-18650-cells/">this guide</a>, I completed the battery with only a few unscheduled electrical discharges</p>
-      <p>currently when riding, I wear a backpack with the battery inside. if the battery catches fire, it's easier to drop the backpack than dismount a bike when traveling at high speeds</p>
-      <p>the top recorded speed is 63 km/h, the range is theoretically 48km at max power, but can likely go farther at lower speeds</p>
+      <p>currently when riding, I wear a backpack with the battery inside. if the battery catches fire, it's easier to drop the backpack than dismount a flaming bike traveling 30+ mph</p>
+      <p>the top recorded speed is 40mph, the range is theoretically 30 miles at max power, but can likely go farther at lower speeds (aka <a href="https://en.wikipedia.org/wiki/Hypermiling">hypermiling</a>)</p>
       <br></br>
       <Image src={battery_bms} width={400} height={400}></Image>
       <p>adding a bms</p>
