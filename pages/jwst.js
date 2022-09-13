@@ -1,12 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import battery_bms from '../public/ebike/battery_bms.JPG';
-import battery_complete from '../public/ebike/battery_complete.JPG';
-import battery_charging from '../public/ebike/battery_charging.JPG';
-import checking_voltage from '../public/ebike/checking_voltage.JPG';
-import outdoors from '../public/ebike/outdoors.JPG';
-
 
 export default function Home() {
   return (
