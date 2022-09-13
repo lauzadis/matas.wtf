@@ -16,19 +16,18 @@ export default function Home() {
       <ul>
         <li>software</li>
         <li>hardware</li>
-        <li>sometimes both</li>
         <li>lots of love</li>
       </ul>
 
       <h3>projects</h3>
       <ul>
         <li><a href="./ebike">electric bicycle</a></li>
-        <li><a href="./jwst">James Webb space telescope bot</a></li>
+        <li><a href="./jwst">James Webb space telescope Twitter bot</a></li>
       </ul>
 
       <h3>about</h3>
       <ul>
-        <li><a href="https://github.com/mataslauzadis">github</a></li>
+        <li><a href="https://github.com/lauzadis">github</a></li>
         <li><a href="https://linkedin.com/in/matas-lauzadis">linkedin</a></li>
         <li><a href="/resume.pdf">resume</a></li>
       </ul>
