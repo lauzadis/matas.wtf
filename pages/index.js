@@ -22,7 +22,7 @@ export default function Home() {
 
       <h3>projects</h3>
       <ul>
-        <li><a href="./ebike">electric bicyle</a></li>
+        <li><a href="./ebike">electric bicycle</a></li>
         <li><a href="./jwst">James Webb space telescope bot</a></li>
       </ul>
 
