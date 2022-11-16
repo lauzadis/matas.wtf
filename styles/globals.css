@@ -13,3 +13,27 @@ a {
 * {
   box-sizing: border-box;
 }
+
+tbody td {
+  text-align: center;
+}
+
+/* td {
+  letter-spacing: 1px;
+}
+th {
+  letter-spacing: 2px;
+} */
+
+tbody td{
+  padding: 15px;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #81afff;
+  color: #fff;
+}
+tbody tr:nth-child(even){
+  background-color: #ffffff;
+  color: #000000;
+}

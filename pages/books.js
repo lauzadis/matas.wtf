@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <a href="/"><h2>matas.wtf? books?</h2></a>
+      <a href="/"><h2>matas.wtf, books?</h2></a>
       <h3>a brief background</h3>
       <p>
         I used to love reading, my middle school had a 30 minute reading period every day.
