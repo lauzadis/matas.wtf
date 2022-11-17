@@ -12,18 +12,18 @@ function Home({ content, data }) {
         <title>matas.wtf</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {/* <ReactMarkdown children={content}></ReactMarkdown> */}
+      <ReactMarkdown children={content}></ReactMarkdown>
     </div>
   )
 }
 
-// Home.getInitialProps = async (context) => {
-//   const content = await import(`../content/index.md`)
+Home.getInitialProps = async (context) => {
+  const content = await import("../content/index.md")
 
-//   // parse frontmatter data
-//   const data = matter(content.default)
+  // parse frontmatter data
+  const data = matter(content.default)
 
-//   return { ...data }
-// }
+  return { ...data }
+}
 
 export default Home
