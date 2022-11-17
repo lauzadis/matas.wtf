@@ -4,7 +4,6 @@ import matter from 'gray-matter'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
-
 function Home({ content, data }) {  
   return (
     <div className={styles.container}>
@@ -18,12 +17,24 @@ function Home({ content, data }) {
 }
 
 Home.getInitialProps = async (context) => {
-  const content = await import("../content/index.md")
+  const content = `
+I made this website to post information about myself and some of my most interesting projects. I hope to help by sharing with others
 
-  // parse frontmatter data
-  const data = matter(content.default)
+### projects
+[electric bicycle](./ebike)
 
-  return { ...data }
+[James Webb Space Telescope Twitter bot](./jwst)
+
+### about me
+
+[github]("https://github.com/lauzadis")
+
+[linkedin]("https://linkedin.com/in/matas-lauzadis")
+
+[resume]("/static/resume")
+`
+
+  return { content }
 }
 
 export default Home
