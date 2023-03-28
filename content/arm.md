@@ -18,7 +18,7 @@ Eventually when autonomous driving becomes a thing, this food truck can even dri
 I chose dosas as a food item because they're really good, easy to program (it's like flipping a pancake), and low-cost, which provides a lot of room for experimenting. They're also vegetarian, which I imagine is easier to get a food license for.
 
 ### bureaucracy
-I don't think there has ever been a concept of a fully-autonomous food truck (like, no human input for days or weeks). When I was looking for licensing requirements, a lot of them were human-focused (which is reasonable), such as requiring the food truck to have a bathroom or be located near a venue with restroom access for the employees.
+I don't think there has ever been a concept of a fully-autonomous food truck (like, no human input for days or weeks). When I was looking for licensing requirements, a lot of them were human-focused (which is reasonable), such as requiring the food truck to have a bathroom or be located near a venue with restroom access for the employees. I wonder how long it will be before there will be different regulations for fully-autonomous food trucks.
 
 ### why a robot arm?
 When thinking of this plan, I considered using 3D printer architecture (XY gantry) to dispense dosa batter on a hot plate. While this would definitely work and be easier to start (look up pancake 3D printers), it's missing a human aspect which I thought would ultimately lead to business failure. There's something special about a robot arm making your meal that provides a closer connection to the food being made.
