@@ -21,6 +21,10 @@ Home.getInitialProps = async (context) => {
 I made this website to post information about myself and some of my most interesting projects. I hope to help by sharing with others
 
 ### projects
+[robot arm](./arm)
+
+[fpv drone](./fpv)
+
 [electric bicycle](./ebike)
 
 [James Webb Space Telescope Twitter bot](./jwst)
