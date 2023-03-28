@@ -1,5 +1,5 @@
 ---
-title: "robot arm"
+title: "a robot arm"
 date: "2023-03-27"
 ---
 
